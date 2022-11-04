@@ -2,7 +2,14 @@
 /*    font-family: 'Noto Sans', sans-serif;
     font-family: 'Raleway', sans-serif; */
 
-    h1{
-        font-weight: 700;
-        font-family: 'Raleway', sans-serif;
-    }
+h1 {
+    font-weight: 700;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.poem {
+    margin-left: auto;
+}
