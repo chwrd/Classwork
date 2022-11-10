@@ -1,0 +1,84 @@
+h1 {
+    background-color: aquamarine;
+}
+
+.big-box {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+
+.little-box {
+    background-color: turquoise;
+    width: 100px;
+    height: 100px;
+}
+
+#little-1 {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+#big-2 {
+    height: 100px;
+    width: 300px;
+}
+
+#little-2 {
+    margin-left: 100px;
+}
+
+#big-3 {
+    width: 100px;
+    height: 300px;
+}
+
+#little-3 {
+    margin-top: 100px;
+    border: solid 10px;
+    margin: 0;
+    position: absolute;
+    transform: translateY(100px);
+}
+
+#little-5 {
+    border: solid 30px;
+    position: absolute;
+    margin: 100px auto auto 100px;
+}
+
+#big-6 {
+    width: 159px;
+}
+
+#little-6 {
+    border: solid 30px;
+    position: absolute;
+    margin-top: 50px;
+}
+
+#big-7 {
+    width: 240px;
+}
+
+#little-7 {
+    border: solid 10px;
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+#big-8 {
+    width: 250px;
+    height: 250px;
+}
+
+#little-8 {
+    border: solid 25px;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 100px;
+}
